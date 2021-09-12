@@ -1,7 +1,7 @@
 # BOOK SEARCH ENGINE
 Google Books API search engine with GraphQL API
 
-![badge](https://img.shields.io/badge/licence-MIT-green) ![badge](https://img.shields.io/badge/-HTML-red) ![badge](https://img.shields.io/badge/-CSS-red) ![badge](https://img.shields.io/badge/-Javascript-red) ![badge](https://img.shields.io/badge/-Node.js-red) ![badge](https://img.shields.io/badge/-React-red) ![badge](https://img.shields.io/badge/-graphQL-red) ![badge](https://img.shields.io/badge/-apollo-server-express-red) ![badge](https://img.shields.io/badge/-bcrypt-red) ![badge](https://img.shields.io/badge/-mongoose-red) ![badge](https://img.shields.io/badge/-jsonwebtoken-red)
+![badge](https://img.shields.io/badge/licence-MIT-green) ![badge](https://img.shields.io/badge/-HTML-red) ![badge](https://img.shields.io/badge/-CSS-red) ![badge](https://img.shields.io/badge/-Javascript-red) ![badge](https://img.shields.io/badge/-Node.js-red) ![badge](https://img.shields.io/badge/-React-red) ![badge](https://img.shields.io/badge/-graphQL-red) ![badge](https://img.shields.io/badge/-apolloServerExpress-red) ![badge](https://img.shields.io/badge/-bcrypt-red) ![badge](https://img.shields.io/badge/-mongoose-red) ![badge](https://img.shields.io/badge/-jsonwebtoken-red)
 
 ## 📜 Description 
 
@@ -39,7 +39,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## ▶️ Final Output GIF 
 
-![Final Output](./src/images/final-output.gif "Final output of the project") 
+![Final Output](./server/src/images/final-output.gif "Final output of the project") 
 
 ## 📝 License 
 
